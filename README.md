@@ -21,6 +21,7 @@
 - [Magento to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1159-10896-magento-to-abantecart-migration-tool.html#/72-entities-1000)
 - [MarketPress to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1160-10897-marketpress-to-abantecart-migration-tool.html#/72-entities-1000)
 - [OpenCart to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1161-10898-opencart-to-abantecart-migration-tool.html#/72-entities-1000)
+- [osCMax to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1179-11534-oscmax-to-abantecart-migration-tool.html#/72-entities-1000)
 - [osCommerce to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1162-10899-oscommerce-to-abantecart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1163-10900-oxid-eshop-to-abantecart-migration-tool.html#/72-entities-1000)
 - [Prestashop to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1164-10901-prestashop-to-abantecart-migration-tool.html#/72-entities-1000)
@@ -56,6 +57,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
