@@ -30,6 +30,7 @@
 - [ShopSite to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1167-10904-shopsite-to-abantecart-migration-tool.html#/72-entities-1000)
 - [Shopware to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1168-10905-shopware-to-abantecart-migration-tool.html#/72-entities-1000)
 - [TomatoCart to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1211-11875-tomatocart-to-abantecart-migration-tool.html#/72-entities-1000)
+- [UberCart to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1243-12216-ubercart-to-abantecart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1169-10906-virtuemart-to-abantecart-migration-tool.html#/72-entities-1000)
 - [Volusion to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1170-10907-volusion-to-abantecart-migration-tool.html#/72-entities-1000)
 - [WooCommerce to AbanteCart Migration](https://d2d-soft.com/abantecart-migration/1171-10908-woocommerce-to-abantecart-migration-tool.html#/72-entities-1000)
@@ -67,6 +68,7 @@
 - [ShopSite](https://www.shopsite.com/)
 - [Shopware](https://www.shopware.com/)
 - TomatoCart
+- UberCart
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)
